@@ -26,8 +26,8 @@
         "rsa.time.month": "Jan",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -53,8 +53,8 @@
         "rsa.time.month": "Feb",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -85,8 +85,8 @@
         "service.name": "uaerat",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -117,8 +117,8 @@
         "rsa.time.month": "Mar",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -139,8 +139,8 @@
         "rsa.time.month": "Mar",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -168,8 +168,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -197,8 +197,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -226,8 +226,8 @@
         "rsa.time.month": "May",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -259,8 +259,8 @@
         "rsa.time.month": "May",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "atiset"
     },
@@ -282,8 +282,8 @@
         "rsa.time.month": "Jun",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -304,8 +304,8 @@
         "rsa.time.month": "Jun",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -332,8 +332,8 @@
         "rsa.time.month": "Jul",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -361,8 +361,8 @@
         "rsa.time.month": "Jul",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -388,8 +388,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -418,8 +418,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -447,8 +447,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -477,8 +477,8 @@
         "rsa.time.month": "Sep",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -499,8 +499,8 @@
         "rsa.time.month": "Sep",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -529,8 +529,8 @@
         "rsa.time.month": "Oct",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -563,8 +563,8 @@
         "rsa.time.month": "Oct",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -587,8 +587,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -628,8 +628,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "atq"
     },
@@ -658,8 +658,8 @@
         "service.name": "nisiu",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -688,8 +688,8 @@
         "rsa.time.month": "Dec",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -719,8 +719,8 @@
         "rsa.time.month": "Jan",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "naturau"
     },
@@ -749,8 +749,8 @@
         "rsa.time.month": "Jan",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -771,8 +771,8 @@
         "rsa.time.month": "Feb",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -791,8 +791,8 @@
         "rsa.time.month": "Feb",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -822,8 +822,8 @@
         "rsa.time.month": "Mar",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -850,8 +850,8 @@
         "rsa.time.month": "Mar",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -884,8 +884,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -906,8 +906,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -937,8 +937,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -970,8 +970,8 @@
         "rsa.time.month": "May",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "moll"
     },
@@ -1001,8 +1001,8 @@
         "rsa.time.month": "May",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1030,8 +1030,8 @@
         "rsa.time.month": "Jun",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1058,8 +1058,8 @@
         "rsa.time.month": "Jun",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1086,8 +1086,8 @@
         "rsa.time.month": "Jul",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1114,8 +1114,8 @@
         "rsa.time.month": "Jul",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1145,8 +1145,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1174,8 +1174,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1206,8 +1206,8 @@
         "rsa.time.month": "Sep",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "wri"
     },
@@ -1237,8 +1237,8 @@
         "rsa.time.month": "Sep",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1267,8 +1267,8 @@
         "rsa.time.month": "Oct",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1294,8 +1294,8 @@
         "rsa.time.month": "Oct",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1330,8 +1330,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "iquipex"
     },
@@ -1360,8 +1360,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1394,8 +1394,8 @@
         "rsa.time.month": "Dec",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "ciatisun"
     },
@@ -1420,8 +1420,8 @@
         "rsa.time.month": "Dec",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1447,8 +1447,8 @@
         "rsa.time.month": "Dec",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1476,8 +1476,8 @@
         "rsa.time.month": "Jan",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1496,8 +1496,8 @@
         "rsa.time.month": "Jan",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1524,8 +1524,8 @@
         "service.name": "tsedquia",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1558,8 +1558,8 @@
         "rsa.time.month": "Feb",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1580,8 +1580,8 @@
         "rsa.time.month": "Mar",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1606,8 +1606,8 @@
         "rsa.time.month": "Mar",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1634,8 +1634,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1662,8 +1662,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1692,8 +1692,8 @@
         "rsa.wireless.wlan_ssid": "ors",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1732,8 +1732,8 @@
         "rsa.time.month": "May",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "olu"
     },
@@ -1766,8 +1766,8 @@
         "rsa.time.month": "Jun",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "deseru"
     },
@@ -1795,8 +1795,8 @@
         "rsa.time.month": "Jun",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1817,8 +1817,8 @@
         "rsa.time.month": "Jul",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1847,8 +1847,8 @@
         "rsa.time.month": "Jul",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1872,8 +1872,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1902,8 +1902,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1930,8 +1930,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1961,8 +1961,8 @@
         "rsa.time.month": "Sep",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -1985,8 +1985,8 @@
         "rsa.time.month": "Sep",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2021,8 +2021,8 @@
         "rsa.time.month": "Oct",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "rese"
     },
@@ -2053,8 +2053,8 @@
         "rsa.time.month": "Oct",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2078,8 +2078,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2105,8 +2105,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2137,8 +2137,8 @@
         "rsa.time.month": "Dec",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2168,8 +2168,8 @@
         "rsa.time.month": "Dec",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2208,8 +2208,8 @@
         "rsa.time.month": "Jan",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ],
         "user.name": "turQ"
     },
@@ -2249,8 +2249,8 @@
             "10.44.24.103"
         ],
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2276,8 +2276,8 @@
         "rsa.time.month": "Feb",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2307,8 +2307,8 @@
         "rsa.time.month": "Feb",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2337,8 +2337,8 @@
         "rsa.time.month": "Mar",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2366,8 +2366,8 @@
         "rsa.time.month": "Mar",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2390,8 +2390,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2417,8 +2417,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2439,8 +2439,8 @@
         "rsa.time.month": "Apr",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2468,8 +2468,8 @@
         "rsa.time.month": "May",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2490,8 +2490,8 @@
         "rsa.time.month": "May",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2520,8 +2520,8 @@
         "rsa.time.month": "Jun",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2545,8 +2545,8 @@
         "rsa.time.month": "Jun",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2570,8 +2570,8 @@
         "rsa.time.month": "Jul",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2600,8 +2600,8 @@
         "rsa.time.month": "Jul",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2628,8 +2628,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2657,8 +2657,8 @@
         "rsa.time.month": "Aug",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2686,8 +2686,8 @@
         "rsa.time.month": "Sep",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2724,8 +2724,8 @@
         "rsa.time.month": "Sep",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2746,8 +2746,8 @@
         "rsa.time.month": "Oct",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2782,8 +2782,8 @@
         "rsa.time.month": "Oct",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2813,8 +2813,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2840,8 +2840,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2872,8 +2872,8 @@
         "rsa.time.month": "Nov",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     },
     {
@@ -2901,8 +2901,8 @@
         "service.name": "voluptat",
         "service.type": "juniper",
         "tags": [
-            "juniper.junos",
-            "forwarded"
+            "forwarded",
+            "juniper.junos"
         ]
     }
 ]

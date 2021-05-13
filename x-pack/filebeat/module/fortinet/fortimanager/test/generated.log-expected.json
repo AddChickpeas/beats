@@ -28,9 +28,15 @@
             "modtempo"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.20.234.169",
             "10.44.173.44",
             "10.189.58.145"
+=======
+            "10.189.58.145",
+            "10.20.234.169",
+            "10.44.173.44"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -94,9 +100,9 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.410",
         "related.hosts": [
+            "aer445.host",
             "mvolu",
-            "pisciv",
-            "aer445.host"
+            "pisciv"
         ],
         "related.ip": [
             "10.171.204.166",
@@ -161,8 +167,8 @@
         "url.original": "https://www.example.net/orisn/cca.htm?ofdeF=metcons#roinBCS",
         "url.path": "/orisn/cca.htm",
         "url.query": [
-            "taspe",
-            "ofdeF=metcons"
+            "ofdeF=metcons",
+            "taspe"
         ],
         "url.scheme": "https",
         "user.name": "oluptas"
@@ -196,9 +202,9 @@
             "ccaecat"
         ],
         "related.ip": [
-            "10.94.103.117",
+            "10.15.159.80",
             "10.200.188.142",
-            "10.15.159.80"
+            "10.94.103.117"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -263,9 +269,15 @@
             "lorem"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.50.112.141",
             "10.27.88.95",
             "10.131.233.27"
+=======
+            "10.131.233.27",
+            "10.27.88.95",
+            "10.50.112.141"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -331,8 +343,13 @@
         "observer.version": "1.5670",
         "related.hosts": [
             "ntutl",
+<<<<<<< HEAD
             "roinBCSe",
             "olo7148.mail.home"
+=======
+            "olo7148.mail.home",
+            "roinBCSe"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.87.212.179",
@@ -346,8 +363,8 @@
         "rsa.investigations.event_vcat": "aveniam",
         "rsa.misc.OS": "oll",
         "rsa.misc.action": [
-            "allow",
-            "ali"
+            "ali",
+            "allow"
         ],
         "rsa.misc.category": "emeumfug",
         "rsa.misc.client": "caecatc",
@@ -397,8 +414,8 @@
         "url.original": "https://api.example.com/iumto/aboreetd.gif?dun=enim#saute",
         "url.path": "/iumto/aboreetd.gif",
         "url.query": [
-            "nsect",
-            "dun=enim"
+            "dun=enim",
+            "nsect"
         ],
         "url.scheme": "https",
         "user.name": "rveli"
@@ -431,9 +448,9 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.152",
         "related.hosts": [
+            "agna7678.internal.host",
             "onse",
-            "orain",
-            "agna7678.internal.host"
+            "orain"
         ],
         "related.ip": [
             "10.114.150.67",
@@ -532,9 +549,9 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.4059",
         "related.hosts": [
+            "equep5085.mail.domain",
             "tatn",
-            "utla",
-            "equep5085.mail.domain"
+            "utla"
         ],
         "related.ip": [
             "10.195.36.51",
@@ -548,8 +565,8 @@
         "rsa.investigations.event_vcat": "quae",
         "rsa.misc.OS": "qui",
         "rsa.misc.action": [
-            "iadese",
-            "accept"
+            "accept",
+            "iadese"
         ],
         "rsa.misc.category": "aturve",
         "rsa.misc.client": "utei",
@@ -599,8 +616,8 @@
         "url.original": "https://www.example.org/inesci/serror.html?mqu=apariat#tlabore",
         "url.path": "/inesci/serror.html",
         "url.query": [
-            "nsectet",
-            "mqu=apariat"
+            "mqu=apariat",
+            "nsectet"
         ],
         "url.scheme": "https",
         "user.name": "nnum"
@@ -700,13 +717,19 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.3917",
         "related.hosts": [
+<<<<<<< HEAD
             "gnido",
             "sperna",
             "eturadi6608.mail.host"
+=======
+            "eturadi6608.mail.host",
+            "gnido",
+            "sperna"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
-            "10.61.163.4",
-            "10.23.62.94"
+            "10.23.62.94",
+            "10.61.163.4"
         ],
         "related.user": [
             "non"
@@ -801,13 +824,19 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.2580",
         "related.hosts": [
+<<<<<<< HEAD
             "tani",
             "ecte",
             "ipsumdol4488.api.localdomain"
+=======
+            "ecte",
+            "ipsumdol4488.api.localdomain",
+            "tani"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
-            "10.28.76.42",
-            "10.106.31.86"
+            "10.106.31.86",
+            "10.28.76.42"
         ],
         "related.user": [
             "cons"
@@ -904,8 +933,13 @@
         ],
         "related.ip": [
             "10.106.162.153",
+<<<<<<< HEAD
             "10.58.214.16",
             "10.238.164.74"
+=======
+            "10.238.164.74",
+            "10.58.214.16"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -972,6 +1006,10 @@
         "related.ip": [
             "10.217.150.196",
             "10.110.31.190",
+<<<<<<< HEAD
+=======
+            "10.217.150.196",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "10.225.141.20"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
@@ -1037,8 +1075,13 @@
         "observer.version": "1.3319",
         "related.hosts": [
             "amc",
+<<<<<<< HEAD
             "mestq",
             "cusant4946.www.domain"
+=======
+            "cusant4946.www.domain",
+            "mestq"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.137.56.173",
@@ -1103,8 +1146,8 @@
         "url.original": "https://api.example.com/isnostr/umqu.htm?emquia=inesci#isnisi",
         "url.path": "/isnostr/umqu.htm",
         "url.query": [
-            "uptate",
-            "emquia=inesci"
+            "emquia=inesci",
+            "uptate"
         ],
         "url.scheme": "https",
         "user.name": "proide"
@@ -1138,9 +1181,9 @@
             "onsecte"
         ],
         "related.ip": [
+            "10.25.212.118",
             "10.30.47.165",
-            "10.5.235.217",
-            "10.25.212.118"
+            "10.5.235.217"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -1204,13 +1247,13 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.225",
         "related.hosts": [
+            "ccaeca5504.internal.example",
             "equaturv",
-            "tvolu",
-            "ccaeca5504.internal.example"
+            "tvolu"
         ],
         "related.ip": [
-            "10.40.152.253",
-            "10.149.13.76"
+            "10.149.13.76",
+            "10.40.152.253"
         ],
         "related.user": [
             "tetur"
@@ -1220,8 +1263,8 @@
         "rsa.investigations.event_vcat": "psumqu",
         "rsa.misc.OS": "oraincid",
         "rsa.misc.action": [
-            "ritt",
-            "deny"
+            "deny",
+            "ritt"
         ],
         "rsa.misc.category": "idunt",
         "rsa.misc.client": "siu",
@@ -1306,9 +1349,15 @@
             "xea"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.51.213.42",
             "10.98.194.212",
             "10.233.120.207"
+=======
+            "10.233.120.207",
+            "10.51.213.42",
+            "10.98.194.212"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -1440,12 +1489,17 @@
         "observer.version": "1.1847",
         "related.hosts": [
             "cingel",
+<<<<<<< HEAD
             "uii",
             "tore7088.www.invalid"
+=======
+            "tore7088.www.invalid",
+            "uii"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
-            "10.212.214.4",
-            "10.199.47.220"
+            "10.199.47.220",
+            "10.212.214.4"
         ],
         "related.user": [
             "atv"
@@ -1541,12 +1595,17 @@
         "observer.version": "1.760",
         "related.hosts": [
             "dolorsit",
+<<<<<<< HEAD
             "rcit",
             "mve1890.internal.home"
+=======
+            "mve1890.internal.home",
+            "rcit"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
-            "10.46.56.204",
-            "10.234.165.130"
+            "10.234.165.130",
+            "10.46.56.204"
         ],
         "related.user": [
             "orese"
@@ -1607,8 +1666,8 @@
         "url.original": "https://www.example.org/redol/gnaa.htm?aliquamq=dtempori#toditaut",
         "url.path": "/redol/gnaa.htm",
         "url.query": [
-            "quames",
-            "aliquamq=dtempori"
+            "aliquamq=dtempori",
+            "quames"
         ],
         "url.scheme": "https",
         "user.name": "orese"
@@ -1642,8 +1701,8 @@
         "observer.version": "1.4450",
         "related.hosts": [
             "billoi",
-            "saquaea",
-            "eturad6143.www.home"
+            "eturad6143.www.home",
+            "saquaea"
         ],
         "related.ip": [
             "10.128.46.70",
@@ -1809,8 +1868,8 @@
         "url.original": "https://www.example.com/tali/BCS.txt?iqu=niamqu#equamnih",
         "url.path": "/tali/BCS.txt",
         "url.query": [
-            "quiineav",
-            "iqu=niamqu"
+            "iqu=niamqu",
+            "quiineav"
         ],
         "url.scheme": "https",
         "user.name": "inculp"
@@ -1945,8 +2004,8 @@
         "observer.version": "1.5380",
         "related.hosts": [
             "onse",
-            "uei",
-            "reseosqu1629.mail.lan"
+            "reseosqu1629.mail.lan",
+            "uei"
         ],
         "related.ip": [
             "10.106.85.174",
@@ -1960,8 +2019,8 @@
         "rsa.investigations.event_vcat": "snostrum",
         "rsa.misc.OS": "tiaecon",
         "rsa.misc.action": [
-            "cancel",
-            "atiset"
+            "atiset",
+            "cancel"
         ],
         "rsa.misc.category": "ehende",
         "rsa.misc.client": "umquam",
@@ -2047,8 +2106,12 @@
             "oluptat"
         ],
         "related.ip": [
-            "10.168.20.20",
             "10.117.63.181",
+            "10.168.20.20",
+<<<<<<< HEAD
+            "10.117.63.181",
+=======
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "10.247.53.179"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
@@ -2216,9 +2279,15 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.3402",
         "related.hosts": [
+<<<<<<< HEAD
             "tur",
             "imavenia",
             "bore5546.www.local"
+=======
+            "bore5546.www.local",
+            "imavenia",
+            "tur"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.44.198.184",
@@ -2317,9 +2386,9 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.91",
         "related.hosts": [
-            "amquisno",
             "Dui",
-            "Utenima260.mail.invalid"
+            "Utenima260.mail.invalid",
+            "amquisno"
         ],
         "related.ip": [
             "10.151.170.207",
@@ -2384,8 +2453,8 @@
         "url.original": "https://api.example.org/orio/gna.gif?aaliquaU=olu#iameaque",
         "url.path": "/orio/gna.gif",
         "url.query": [
-            "tatio",
-            "aaliquaU=olu"
+            "aaliquaU=olu",
+            "tatio"
         ],
         "url.scheme": "https",
         "user.name": "iosamni"
@@ -2423,8 +2492,8 @@
             "uido2046.mail.lan"
         ],
         "related.ip": [
-            "10.70.7.23",
-            "10.130.240.11"
+            "10.130.240.11",
+            "10.70.7.23"
         ],
         "related.user": [
             "eavolup"
@@ -2485,8 +2554,8 @@
         "url.original": "https://mail.example.org/nimadmin/lumqui.txt?iquip=tinculpa#umtota",
         "url.path": "/nimadmin/lumqui.txt",
         "url.query": [
-            "iuta",
-            "iquip=tinculpa"
+            "iquip=tinculpa",
+            "iuta"
         ],
         "url.scheme": "https",
         "user.name": "eavolup"
@@ -2520,9 +2589,15 @@
             "uio"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.37.161.101",
             "10.111.182.212",
             "10.17.209.252"
+=======
+            "10.111.182.212",
+            "10.17.209.252",
+            "10.37.161.101"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -2587,9 +2662,15 @@
             "itautfu"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.158.175.98",
             "10.170.196.181",
             "10.153.166.133"
+=======
+            "10.153.166.133",
+            "10.158.175.98",
+            "10.170.196.181"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -2653,9 +2734,9 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.5978",
         "related.hosts": [
+            "con6049.internal.lan",
             "porissu",
-            "tuser",
-            "con6049.internal.lan"
+            "tuser"
         ],
         "related.ip": [
             "10.63.171.91",
@@ -2669,8 +2750,8 @@
         "rsa.investigations.event_vcat": "enimad",
         "rsa.misc.OS": "olor",
         "rsa.misc.action": [
-            "nse",
-            "accept"
+            "accept",
+            "nse"
         ],
         "rsa.misc.category": "conseq",
         "rsa.misc.client": "mmo",
@@ -2720,8 +2801,8 @@
         "url.original": "https://internal.example.com/temse/caecat.jpg?emeu=tatemac#quisn",
         "url.path": "/temse/caecat.jpg",
         "url.query": [
-            "mveniam",
-            "emeu=tatemac"
+            "emeu=tatemac",
+            "mveniam"
         ],
         "url.scheme": "https",
         "user.name": "usanti"
@@ -2755,8 +2836,12 @@
             "iam"
         ],
         "related.ip": [
-            "10.38.168.190",
             "10.174.17.46",
+            "10.38.168.190",
+<<<<<<< HEAD
+            "10.174.17.46",
+=======
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "10.77.105.81"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
@@ -2822,9 +2907,15 @@
             "ons"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.36.99.207",
             "10.166.142.198",
             "10.225.37.73"
+=======
+            "10.166.142.198",
+            "10.225.37.73",
+            "10.36.99.207"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -2889,9 +2980,15 @@
             "eturadip"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.66.90.225",
             "10.214.156.161",
             "10.145.194.12"
+=======
+            "10.145.194.12",
+            "10.214.156.161",
+            "10.66.90.225"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -2956,9 +3053,9 @@
             "iutal"
         ],
         "related.ip": [
-            "10.6.242.108",
             "10.156.208.5",
-            "10.163.36.101"
+            "10.163.36.101",
+            "10.6.242.108"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -3089,8 +3186,8 @@
         "url.original": "https://www5.example.com/elit/sam.htm?nevolu=unt#isni",
         "url.path": "/elit/sam.htm",
         "url.query": [
-            "onoru",
-            "nevolu=unt"
+            "nevolu=unt",
+            "onoru"
         ],
         "url.scheme": "https",
         "user.name": "estiaec"
@@ -3123,9 +3220,15 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.4481",
         "related.hosts": [
+<<<<<<< HEAD
             "naaliq",
             "trudex",
             "itaspe3216.localdomain"
+=======
+            "itaspe3216.localdomain",
+            "naaliq",
+            "trudex"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.94.177.125",
@@ -3190,8 +3293,8 @@
         "url.original": "https://example.org/porro/issu.htm?inculpa=ruredol#iadeseru",
         "url.path": "/porro/issu.htm",
         "url.query": [
-            "olorsit",
-            "inculpa=ruredol"
+            "inculpa=ruredol",
+            "olorsit"
         ],
         "url.scheme": "https",
         "user.name": "ecatc"
@@ -3226,8 +3329,8 @@
         "observer.version": "1.4442",
         "related.hosts": [
             "fugi",
-            "uae",
-            "mea6298.api.example"
+            "mea6298.api.example",
+            "uae"
         ],
         "related.ip": [
             "10.115.121.243",
@@ -3292,8 +3395,8 @@
         "url.original": "https://mail.example.org/uamquaer/texplica.gif?sequa=lorum#suntexpl",
         "url.path": "/uamquaer/texplica.gif",
         "url.query": [
-            "udexerci",
-            "sequa=lorum"
+            "sequa=lorum",
+            "udexerci"
         ],
         "url.scheme": "https",
         "user.name": "norumetM"
@@ -3327,12 +3430,17 @@
         "observer.version": "1.3804",
         "related.hosts": [
             "atcupi",
+<<<<<<< HEAD
             "nder",
             "iqu7510.internal.corp"
+=======
+            "iqu7510.internal.corp",
+            "nder"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
-            "10.49.82.45",
-            "10.179.153.97"
+            "10.179.153.97",
+            "10.49.82.45"
         ],
         "related.user": [
             "dictasun"
@@ -3428,9 +3536,15 @@
             "lors"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.99.55.115",
             "10.205.83.138",
             "10.98.52.184"
+=======
+            "10.205.83.138",
+            "10.98.52.184",
+            "10.99.55.115"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -3548,8 +3662,8 @@
         "observer.type": "Configuration",
         "observer.vendor": "Fortinet",
         "related.hosts": [
-            "ntoccae2859.www.test",
-            "moll"
+            "moll",
+            "ntoccae2859.www.test"
         ],
         "related.user": [
             "cteturad"
@@ -3608,13 +3722,13 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.7318",
         "related.hosts": [
+            "deFinibu3940.internal.lan",
             "ptat",
-            "umdol",
-            "deFinibu3940.internal.lan"
+            "umdol"
         ],
         "related.ip": [
-            "10.22.248.52",
-            "10.124.71.88"
+            "10.124.71.88",
+            "10.22.248.52"
         ],
         "related.user": [
             "tcons"
@@ -3675,8 +3789,8 @@
         "url.original": "https://www5.example.com/etcon/chit.txt?erspici=itinvolu#adeserun",
         "url.path": "/etcon/chit.txt",
         "url.query": [
-            "tinvolu",
-            "erspici=itinvolu"
+            "erspici=itinvolu",
+            "tinvolu"
         ],
         "url.scheme": "https",
         "user.name": "tcons"
@@ -3725,8 +3839,8 @@
         "rsa.investigations.event_vcat": "iae",
         "rsa.misc.OS": "evelite",
         "rsa.misc.action": [
-            "essequam",
-            "block"
+            "block",
+            "essequam"
         ],
         "rsa.misc.category": "tmollita",
         "rsa.misc.client": "uiinea",
@@ -3776,8 +3890,8 @@
         "url.original": "https://api.example.org/fug/liquid.txt?ptate=lloi#nseq",
         "url.path": "/fug/liquid.txt",
         "url.query": [
-            "undeo",
-            "ptate=lloi"
+            "ptate=lloi",
+            "undeo"
         ],
         "url.scheme": "https",
         "user.name": "eumiure"
@@ -3811,9 +3925,15 @@
             "teni"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.250.231.196",
             "10.14.145.107",
             "10.200.12.126"
+=======
+            "10.14.145.107",
+            "10.200.12.126",
+            "10.250.231.196"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -3878,9 +3998,15 @@
             "atuse"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.225.34.176",
             "10.103.36.192",
             "10.21.203.112"
+=======
+            "10.103.36.192",
+            "10.21.203.112",
+            "10.225.34.176"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -4012,8 +4138,8 @@
         "observer.version": "1.4493",
         "related.hosts": [
             "labor",
-            "veleumiu",
-            "nimadmi4084.api.home"
+            "nimadmi4084.api.home",
+            "veleumiu"
         ],
         "related.ip": [
             "10.28.212.191",
@@ -4112,13 +4238,19 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.6506",
         "related.hosts": [
+<<<<<<< HEAD
             "sedqui",
             "ecillum",
             "reprehe3525.www5.example"
+=======
+            "ecillum",
+            "reprehe3525.www5.example",
+            "sedqui"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
-            "10.148.197.60",
-            "10.143.144.52"
+            "10.143.144.52",
+            "10.148.197.60"
         ],
         "related.user": [
             "rporis"
@@ -4179,8 +4311,8 @@
         "url.original": "https://mail.example.org/mvele/teveli.htm?Nequepor=luptate#aturvel",
         "url.path": "/mvele/teveli.htm",
         "url.query": [
-            "lab",
-            "Nequepor=luptate"
+            "Nequepor=luptate",
+            "lab"
         ],
         "url.scheme": "https",
         "user.name": "rporis"
@@ -4282,8 +4414,13 @@
         ],
         "related.ip": [
             "10.183.16.252",
+<<<<<<< HEAD
             "10.51.60.203",
             "10.203.66.175"
+=======
+            "10.203.66.175",
+            "10.51.60.203"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -4449,8 +4586,13 @@
         "observer.version": "1.5475",
         "related.hosts": [
             "antium",
+<<<<<<< HEAD
             "rcita",
             "ididunt7607.mail.localhost"
+=======
+            "ididunt7607.mail.localhost",
+            "rcita"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.217.111.77",
@@ -4549,9 +4691,9 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.142",
         "related.hosts": [
-            "rsita",
+            "mco2906.domain",
             "ommodoco",
-            "mco2906.domain"
+            "rsita"
         ],
         "related.ip": [
             "10.86.152.227",
@@ -4616,8 +4758,8 @@
         "url.original": "https://www.example.com/iadolo/cidu.txt?aliquide=redolori#eav",
         "url.path": "/iadolo/cidu.txt",
         "url.query": [
-            "tiu",
-            "aliquide=redolori"
+            "aliquide=redolori",
+            "tiu"
         ],
         "url.scheme": "https",
         "user.name": "msequin"
@@ -4651,8 +4793,13 @@
         "observer.version": "1.1789",
         "related.hosts": [
             "dol",
+<<<<<<< HEAD
             "ono",
             "ntex5135.corp"
+=======
+            "ntex5135.corp",
+            "ono"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.234.171.117",
@@ -4666,8 +4813,8 @@
         "rsa.investigations.event_vcat": "uia",
         "rsa.misc.OS": "mquae",
         "rsa.misc.action": [
-            "tenatus",
-            "deny"
+            "deny",
+            "tenatus"
         ],
         "rsa.misc.category": "abo",
         "rsa.misc.client": "umtota",
@@ -4717,8 +4864,8 @@
         "url.original": "https://internal.example.com/isc/umdol.jpg?atn=sectet#boreetd",
         "url.path": "/isc/umdol.jpg",
         "url.query": [
-            "odic",
-            "atn=sectet"
+            "atn=sectet",
+            "odic"
         ],
         "url.scheme": "https",
         "user.name": "tat"
@@ -4753,9 +4900,9 @@
             "nonnumq"
         ],
         "related.ip": [
+            "10.107.168.208",
             "10.249.16.201",
-            "10.34.41.75",
-            "10.107.168.208"
+            "10.34.41.75"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -4819,13 +4966,13 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.6905",
         "related.hosts": [
-            "rveli",
             "aaliq",
+            "rveli",
             "tat1845.internal.invalid"
         ],
         "related.ip": [
-            "10.96.168.24",
-            "10.109.106.194"
+            "10.109.106.194",
+            "10.96.168.24"
         ],
         "related.user": [
             "ommodoc"
@@ -4886,8 +5033,8 @@
         "url.original": "https://www.example.com/imadm/ugiat.txt?Nequepor=nisiu#ptat",
         "url.path": "/imadm/ugiat.txt",
         "url.query": [
-            "stiaec",
-            "Nequepor=nisiu"
+            "Nequepor=nisiu",
+            "stiaec"
         ],
         "url.scheme": "https",
         "user.name": "ommodoc"
@@ -5222,8 +5369,8 @@
         "url.original": "https://mail.example.org/asuntex/uovolup.html?amali=uiav#henderi",
         "url.path": "/asuntex/uovolup.html",
         "url.query": [
-            "eriti",
-            "amali=uiav"
+            "amali=uiav",
+            "eriti"
         ],
         "url.scheme": "https",
         "user.name": "urmag"
@@ -5323,8 +5470,8 @@
         "url.original": "https://example.org/mnisiut/porinci.htm?norum=emUten#dminimve",
         "url.path": "/mnisiut/porinci.htm",
         "url.query": [
-            "texplica",
-            "norum=emUten"
+            "norum=emUten",
+            "texplica"
         ],
         "url.scheme": "https",
         "user.name": "lpaquiof"
@@ -5358,9 +5505,15 @@
             "cons"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.246.41.77",
             "10.228.61.5",
             "10.157.22.21"
+=======
+            "10.157.22.21",
+            "10.228.61.5",
+            "10.246.41.77"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -5558,8 +5711,8 @@
         "url.original": "https://api.example.net/nsec/smo.gif?etq=trumexe#rai",
         "url.path": "/nsec/smo.gif",
         "url.query": [
-            "ipsu",
-            "etq=trumexe"
+            "etq=trumexe",
+            "ipsu"
         ],
         "url.scheme": "https",
         "user.name": "ainci"
@@ -5640,12 +5793,12 @@
         "observer.version": "1.4342",
         "related.hosts": [
             "onsequ",
-            "ten",
-            "riaturE1644.www5.example"
+            "riaturE1644.www5.example",
+            "ten"
         ],
         "related.ip": [
-            "10.215.144.167",
-            "10.162.114.52"
+            "10.162.114.52",
+            "10.215.144.167"
         ],
         "related.user": [
             "erspici"
@@ -5655,8 +5808,8 @@
         "rsa.investigations.event_vcat": "empori",
         "rsa.misc.OS": "ostru",
         "rsa.misc.action": [
-            "quepor",
-            "allow"
+            "allow",
+            "quepor"
         ],
         "rsa.misc.category": "cipitla",
         "rsa.misc.client": "exeacomm",
@@ -5740,9 +5893,15 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.6452",
         "related.hosts": [
+<<<<<<< HEAD
             "tem",
             "cons",
             "mdolo7008.api.corp"
+=======
+            "cons",
+            "mdolo7008.api.corp",
+            "tem"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.162.128.87",
@@ -5910,8 +6069,13 @@
         ],
         "related.ip": [
             "10.154.151.111",
+<<<<<<< HEAD
             "10.7.230.206",
             "10.249.93.150"
+=======
+            "10.249.93.150",
+            "10.7.230.206"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -5975,9 +6139,15 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.5718",
         "related.hosts": [
+<<<<<<< HEAD
             "quirat",
             "ptatem",
             "itse5466.api.example"
+=======
+            "itse5466.api.example",
+            "ptatem",
+            "quirat"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.26.4.3",
@@ -6076,9 +6246,15 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.6603",
         "related.hosts": [
+<<<<<<< HEAD
             "eac",
             "ssuscipi",
             "dquiac6194.api.lan"
+=======
+            "dquiac6194.api.lan",
+            "eac",
+            "ssuscipi"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.180.162.174",
@@ -6177,9 +6353,9 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.2052",
         "related.hosts": [
+            "amco1592.mail.host",
             "asp",
-            "dat",
-            "amco1592.mail.host"
+            "dat"
         ],
         "related.ip": [
             "10.110.99.222",
@@ -6244,8 +6420,8 @@
         "url.original": "https://internal.example.com/ssusci/snostrud.txt?dolo=siutaliq#obeata",
         "url.path": "/ssusci/snostrud.txt",
         "url.query": [
-            "ptat",
-            "dolo=siutaliq"
+            "dolo=siutaliq",
+            "ptat"
         ],
         "url.scheme": "https",
         "user.name": "moenimi"
@@ -6278,9 +6454,15 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.2691",
         "related.hosts": [
+<<<<<<< HEAD
             "orroqu",
             "ratio",
             "dicta7226.mail.example"
+=======
+            "dicta7226.mail.example",
+            "orroqu",
+            "ratio"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.4.244.115",
@@ -6380,9 +6562,15 @@
             "eleumiu"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.236.211.111",
             "10.120.212.78",
             "10.221.100.157"
+=======
+            "10.120.212.78",
+            "10.221.100.157",
+            "10.236.211.111"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -6446,9 +6634,9 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.3052",
         "related.hosts": [
+            "pidatatn2627.www.localdomain",
             "tenima",
-            "xeacom",
-            "pidatatn2627.www.localdomain"
+            "xeacom"
         ],
         "related.ip": [
             "10.210.82.202",
@@ -6548,9 +6736,15 @@
             "nimides"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.226.255.3",
             "10.53.251.202",
             "10.123.59.69"
+=======
+            "10.123.59.69",
+            "10.226.255.3",
+            "10.53.251.202"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -6681,13 +6875,13 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.95",
         "related.hosts": [
-            "inculp",
             "Utenimad",
-            "emveleu4029.api.local"
+            "emveleu4029.api.local",
+            "inculp"
         ],
         "related.ip": [
-            "10.236.175.163",
-            "10.126.11.186"
+            "10.126.11.186",
+            "10.236.175.163"
         ],
         "related.user": [
             "udantiu"
@@ -6783,9 +6977,15 @@
             "mes"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.83.98.220",
             "10.11.150.136",
             "10.171.60.173"
+=======
+            "10.11.150.136",
+            "10.171.60.173",
+            "10.83.98.220"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -6850,9 +7050,15 @@
             "datatno"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.92.3.166",
             "10.238.49.73",
             "10.74.88.209"
+=======
+            "10.238.49.73",
+            "10.74.88.209",
+            "10.92.3.166"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -6985,8 +7191,13 @@
         ],
         "related.ip": [
             "10.135.213.17",
+<<<<<<< HEAD
             "10.30.239.222",
             "10.167.128.229"
+=======
+            "10.167.128.229",
+            "10.30.239.222"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -7117,8 +7328,8 @@
         "url.original": "https://api.example.net/ita/esse.txt?amquis=iatquovo#rExce",
         "url.path": "/ita/esse.txt",
         "url.query": [
-            "ididun",
-            "amquis=iatquovo"
+            "amquis=iatquovo",
+            "ididun"
         ],
         "url.scheme": "https",
         "user.name": "emq"
@@ -7218,8 +7429,8 @@
         "url.original": "https://www5.example.net/culpa/isun.txt?cola=tura#rat",
         "url.path": "/culpa/isun.txt",
         "url.query": [
-            "orumwrit",
-            "cola=tura"
+            "cola=tura",
+            "orumwrit"
         ],
         "url.scheme": "https",
         "user.name": "caecatcu"
@@ -7253,9 +7464,15 @@
             "emaperi"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.35.240.70",
             "10.53.82.96",
             "10.224.212.88"
+=======
+            "10.224.212.88",
+            "10.35.240.70",
+            "10.53.82.96"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -7320,9 +7537,15 @@
             "oeius"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.66.149.234",
             "10.233.128.7",
             "10.186.253.240"
+=======
+            "10.186.253.240",
+            "10.233.128.7",
+            "10.66.149.234"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -7388,8 +7611,8 @@
         ],
         "related.ip": [
             "10.173.140.201",
-            "10.46.11.114",
-            "10.227.133.134"
+            "10.227.133.134",
+            "10.46.11.114"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -7455,8 +7678,13 @@
         ],
         "related.ip": [
             "10.170.236.123",
+<<<<<<< HEAD
             "10.69.130.207",
             "10.205.18.11"
+=======
+            "10.205.18.11",
+            "10.69.130.207"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -7587,8 +7815,8 @@
         "url.original": "https://example.com/loremag/mqu.gif?bore=lapari#aborios",
         "url.path": "/loremag/mqu.gif",
         "url.query": [
-            "sequa",
-            "bore=lapari"
+            "bore=lapari",
+            "sequa"
         ],
         "url.scheme": "https",
         "user.name": "epor"
@@ -7622,9 +7850,9 @@
             "ineavol"
         ],
         "related.ip": [
-            "10.9.41.221",
             "10.204.98.238",
-            "10.81.58.91"
+            "10.81.58.91",
+            "10.9.41.221"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -7736,8 +7964,8 @@
             "uipex"
         ],
         "related.ip": [
-            "10.35.84.125",
             "10.212.208.70",
+            "10.35.84.125",
             "10.37.120.29"
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
@@ -7803,9 +8031,15 @@
             "aturvel"
         ],
         "related.ip": [
+<<<<<<< HEAD
             "10.207.207.106",
             "10.143.65.84",
             "10.199.201.26"
+=======
+            "10.143.65.84",
+            "10.199.201.26",
+            "10.207.207.106"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -7938,8 +8172,13 @@
         ],
         "related.ip": [
             "10.185.44.26",
+<<<<<<< HEAD
             "10.53.110.111",
             "10.246.81.164"
+=======
+            "10.246.81.164",
+            "10.53.110.111"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.internal.messageid": "generic_fortinetmgr_1",
         "rsa.misc.action": [
@@ -8004,9 +8243,15 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.802",
         "related.hosts": [
+<<<<<<< HEAD
             "lam",
             "proid",
             "cupida6106.www5.local"
+=======
+            "cupida6106.www5.local",
+            "lam",
+            "proid"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.109.172.90",
@@ -8105,8 +8350,8 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.2314",
         "related.hosts": [
-            "umtotam",
             "stenat",
+            "umtotam",
             "unt2122.internal.local"
         ],
         "related.ip": [
@@ -8206,9 +8451,15 @@
         "observer.vendor": "Fortinet",
         "observer.version": "1.4674",
         "related.hosts": [
+<<<<<<< HEAD
             "oremeu",
             "ita",
             "luptat2613.internal.localhost"
+=======
+            "ita",
+            "luptat2613.internal.localhost",
+            "oremeu"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.182.124.88",
@@ -8222,8 +8473,8 @@
         "rsa.investigations.event_vcat": "tfug",
         "rsa.misc.OS": "imipsam",
         "rsa.misc.action": [
-            "utodi",
-            "block"
+            "block",
+            "utodi"
         ],
         "rsa.misc.category": "cid",
         "rsa.misc.client": "mquaerat",
@@ -8312,8 +8563,8 @@
             "neavo4796.internal.domain"
         ],
         "related.ip": [
-            "10.35.10.19",
-            "10.188.124.185"
+            "10.188.124.185",
+            "10.35.10.19"
         ],
         "related.user": [
             "dolo"
@@ -8374,8 +8625,8 @@
         "url.original": "https://www5.example.com/xea/ssecill.html?quianonn=quun#one",
         "url.path": "/xea/ssecill.html",
         "url.query": [
-            "tasper",
-            "quianonn=quun"
+            "quianonn=quun",
+            "tasper"
         ],
         "url.scheme": "https",
         "user.name": "dolo"

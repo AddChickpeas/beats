@@ -73,8 +73,8 @@
         ],
         "related.user": [
             "dolore",
-            "orev",
-            "nnumqu"
+            "nnumqu",
+            "orev"
         ],
         "rsa.db.database": "umdo",
         "rsa.db.index": "vol",
@@ -139,9 +139,9 @@
             "10.46.185.46"
         ],
         "related.user": [
-            "serror",
             "incid",
-            "nse"
+            "nse",
+            "serror"
         ],
         "rsa.db.database": "byC",
         "rsa.db.index": "tur",
@@ -198,8 +198,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.6713",
         "related.hosts": [
-            "uam6303.api.lan",
-            "llu4762.mail.localdomain"
+            "llu4762.mail.localdomain",
+            "uam6303.api.lan"
         ],
         "related.ip": [
             "10.155.236.240",
@@ -265,9 +265,15 @@
             "10.81.199.122"
         ],
         "related.user": [
+<<<<<<< HEAD
             "oremips",
             "giatq",
             "eos"
+=======
+            "eos",
+            "giatq",
+            "oremips"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "tempo",
         "rsa.internal.event_desc": "uian",
@@ -309,8 +315,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.3491",
         "related.hosts": [
-            "temq1198.internal.example",
-            "aquaeab2275.www5.domain"
+            "aquaeab2275.www5.domain",
+            "temq1198.internal.example"
         ],
         "related.ip": [
             "10.139.186.201",
@@ -319,6 +325,10 @@
         "related.user": [
             "tcupida",
             "aboris",
+<<<<<<< HEAD
+=======
+            "tcupida",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "uam"
         ],
         "rsa.db.database": "isiu",
@@ -376,16 +386,20 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.6875",
         "related.hosts": [
-            "tenbyCic5882.api.home",
-            "amquisno3338.www5.lan"
+            "amquisno3338.www5.lan",
+            "tenbyCic5882.api.home"
         ],
         "related.ip": [
-            "10.47.76.251",
-            "10.104.111.129"
+            "10.104.111.129",
+            "10.47.76.251"
         ],
         "related.user": [
-            "etconsec",
             "ele",
+            "etconsec",
+<<<<<<< HEAD
+            "ele",
+=======
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "ipis"
         ],
         "rsa.db.database": "riat",
@@ -443,9 +457,15 @@
             "10.116.120.216"
         ],
         "related.user": [
+<<<<<<< HEAD
             "umdo",
             "animi",
             "quiratio"
+=======
+            "animi",
+            "quiratio",
+            "umdo"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "oll",
         "rsa.internal.event_desc": "rumet",
@@ -495,9 +515,9 @@
             "10.62.54.220"
         ],
         "related.user": [
-            "taevi",
             "psum",
-            "rnatura"
+            "rnatura",
+            "taevi"
         ],
         "rsa.db.database": "emeumfug",
         "rsa.db.index": "omn",
@@ -597,8 +617,13 @@
             "10.18.165.35"
         ],
         "related.user": [
+<<<<<<< HEAD
             "modocons",
             "lor",
+=======
+            "lor",
+            "modocons",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "remeum"
         ],
         "rsa.db.index": "etM",
@@ -643,6 +668,10 @@
         "related.user": [
             "onproide",
             "icab",
+<<<<<<< HEAD
+=======
+            "onproide",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "tema"
         ],
         "rsa.db.index": "mqui",
@@ -684,8 +713,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.1697",
         "related.hosts": [
-            "tlabo6088.www.localdomain",
-            "Lor5841.internal.example"
+            "Lor5841.internal.example",
+            "tlabo6088.www.localdomain"
         ],
         "related.ip": [
             "10.92.8.15",
@@ -749,9 +778,15 @@
             "10.21.78.128"
         ],
         "related.user": [
+<<<<<<< HEAD
             "taut",
             "upt",
             "giatquov"
+=======
+            "giatquov",
+            "taut",
+            "upt"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "iadese",
         "rsa.internal.event_desc": "deFinibu",
@@ -793,9 +828,15 @@
             "10.18.109.121"
         ],
         "related.user": [
+<<<<<<< HEAD
             "pida",
             "tatn",
             "hil"
+=======
+            "hil",
+            "pida",
+            "tatn"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "quip",
         "rsa.internal.event_desc": "ecillu",
@@ -837,17 +878,23 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.3727",
         "related.hosts": [
-            "rpo79.mail.example",
-            "iavolu5352.localhost"
+            "iavolu5352.localhost",
+            "rpo79.mail.example"
         ],
         "related.ip": [
             "10.225.115.13",
             "10.63.37.192"
         ],
         "related.user": [
+<<<<<<< HEAD
             "reetd",
             "iunt",
             "equep"
+=======
+            "equep",
+            "iunt",
+            "reetd"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "aliqu",
         "rsa.db.index": "mipsumd",
@@ -911,9 +958,15 @@
             "10.95.64.124"
         ],
         "related.user": [
+<<<<<<< HEAD
             "ntor",
             "run",
             "ice"
+=======
+            "ice",
+            "ntor",
+            "run"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "ite",
         "rsa.db.index": "iquipex",
@@ -1034,8 +1087,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.821",
         "related.hosts": [
-            "quatD4191.local",
-            "etMalor4236.www5.host"
+            "etMalor4236.www5.host",
+            "quatD4191.local"
         ],
         "related.ip": [
             "10.125.160.129",
@@ -1110,8 +1163,13 @@
         ],
         "related.user": [
             "iduntu",
+<<<<<<< HEAD
             "tasuntex",
             "liqui"
+=======
+            "liqui",
+            "tasuntex"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "rvel",
         "rsa.db.index": "onsecte",
@@ -1171,9 +1229,15 @@
         "process.name": "laboree.exe",
         "process.pid": 6501,
         "related.hosts": [
+<<<<<<< HEAD
             "nsecte3304.mail.corp",
             "xeacomm6855.api.corp",
             "eroi176.example"
+=======
+            "eroi176.example",
+            "nsecte3304.mail.corp",
+            "xeacomm6855.api.corp"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "related.ip": [
             "10.167.85.181",
@@ -1292,8 +1356,8 @@
         ],
         "related.user": [
             "luptatev",
-            "uteirure",
-            "tDuisaut"
+            "tDuisaut",
+            "uteirure"
         ],
         "rsa.db.database": "uamest",
         "rsa.db.index": "uae",
@@ -1421,8 +1485,8 @@
             "illoin2914.mail.lan"
         ],
         "related.ip": [
-            "10.213.144.249",
-            "10.192.34.76"
+            "10.192.34.76",
+            "10.213.144.249"
         ],
         "related.user": [
             "iquipe",
@@ -1486,8 +1550,8 @@
             "evit5780.www.corp"
         ],
         "related.ip": [
-            "10.216.84.30",
-            "10.154.4.197"
+            "10.154.4.197",
+            "10.216.84.30"
         ],
         "related.user": [
             "intoc",
@@ -1547,9 +1611,9 @@
             "10.143.193.199"
         ],
         "related.user": [
-            "tqu",
             "niamqui",
-            "quid"
+            "quid",
+            "tqu"
         ],
         "rsa.db.index": "inci",
         "rsa.internal.event_desc": "eroinBCS",
@@ -1600,8 +1664,13 @@
         ],
         "related.user": [
             "essequam",
+<<<<<<< HEAD
             "umqu",
             "ritatise"
+=======
+            "ritatise",
+            "umqu"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "ender",
         "rsa.db.index": "entorev",
@@ -1702,9 +1771,15 @@
             "10.107.9.163"
         ],
         "related.user": [
+<<<<<<< HEAD
             "sit",
             "mac",
             "mquisno"
+=======
+            "mac",
+            "mquisno",
+            "sit"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "sit",
         "rsa.internal.event_desc": "tdol",
@@ -1790,17 +1865,17 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.267",
         "related.hosts": [
-            "utlab3706.api.host",
-            "miurerep1152.internal.domain"
+            "miurerep1152.internal.domain",
+            "utlab3706.api.host"
         ],
         "related.ip": [
-            "10.39.10.155",
-            "10.235.136.109"
+            "10.235.136.109",
+            "10.39.10.155"
         ],
         "related.user": [
+            "aboreetd",
             "ptass",
-            "urExcept",
-            "aboreetd"
+            "urExcept"
         ],
         "rsa.db.database": "teirured",
         "rsa.db.index": "dolorem",
@@ -1857,9 +1932,15 @@
             "10.96.224.19"
         ],
         "related.user": [
+<<<<<<< HEAD
             "ibusBon",
             "itation",
             "doloreme"
+=======
+            "doloreme",
+            "ibusBon",
+            "itation"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "oremipsu",
         "rsa.internal.event_desc": "umexerc",
@@ -1901,9 +1982,15 @@
             "10.71.238.250"
         ],
         "related.user": [
+<<<<<<< HEAD
             "reseo",
             "aec",
             "moenimi"
+=======
+            "aec",
+            "moenimi",
+            "reseo"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "mac",
         "rsa.internal.event_desc": "quamest",
@@ -1945,12 +2032,12 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.3804",
         "related.hosts": [
-            "rum5798.home",
-            "mvel1188.internal.localdomain"
+            "mvel1188.internal.localdomain",
+            "rum5798.home"
         ],
         "related.ip": [
-            "10.226.20.199",
-            "10.226.101.180"
+            "10.226.101.180",
+            "10.226.20.199"
         ],
         "related.user": [
             "rationev",
@@ -2016,13 +2103,13 @@
             "nisiut3624.api.example"
         ],
         "related.ip": [
-            "10.86.22.67",
-            "10.134.65.15"
+            "10.134.65.15",
+            "10.86.22.67"
         ],
         "related.user": [
-            "utaliqu",
+            "cab",
             "quaUten",
-            "cab"
+            "utaliqu"
         ],
         "rsa.db.database": "isciv",
         "rsa.db.index": "nofd",
@@ -2082,9 +2169,15 @@
             "10.70.147.120"
         ],
         "related.user": [
+<<<<<<< HEAD
             "emqu",
             "tten",
             "cidunt"
+=======
+            "cidunt",
+            "emqu",
+            "tten"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "eaqu",
         "rsa.internal.event_desc": "quidol",
@@ -2126,17 +2219,22 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.6255",
         "related.hosts": [
-            "tesse1089.www.host",
-            "ptateve6909.www5.lan"
+            "ptateve6909.www5.lan",
+            "tesse1089.www.host"
         ],
         "related.ip": [
-            "10.24.111.229",
-            "10.178.242.100"
+            "10.178.242.100",
+            "10.24.111.229"
         ],
         "related.user": [
             "dqu",
+<<<<<<< HEAD
             "loi",
             "idid"
+=======
+            "idid",
+            "loi"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "tenatuse",
         "rsa.db.index": "ullamcor",
@@ -2193,9 +2291,15 @@
             "10.211.179.168"
         ],
         "related.user": [
+<<<<<<< HEAD
             "ritati",
             "untincul",
             "mmodoc"
+=======
+            "mmodoc",
+            "ritati",
+            "untincul"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "emvele",
         "rsa.internal.event_desc": "oluptas",
@@ -2237,9 +2341,15 @@
             "10.30.243.163"
         ],
         "related.user": [
+<<<<<<< HEAD
             "mven",
             "dolore",
             "illu"
+=======
+            "dolore",
+            "illu",
+            "mven"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "idol",
         "rsa.internal.event_desc": "lore",
@@ -2285,13 +2395,18 @@
             "modocon5089.mail.example"
         ],
         "related.ip": [
-            "10.6.79.159",
-            "10.212.214.4"
+            "10.212.214.4",
+            "10.6.79.159"
         ],
         "related.user": [
             "amvo",
+<<<<<<< HEAD
             "quid",
             "midestl"
+=======
+            "midestl",
+            "quid"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "urExce",
         "rsa.db.index": "ectiono",
@@ -2356,9 +2471,15 @@
             "10.237.170.202"
         ],
         "related.user": [
+<<<<<<< HEAD
             "liquide",
             "rcit",
             "atDu"
+=======
+            "atDu",
+            "liquide",
+            "rcit"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "taedict",
         "rsa.db.index": "loremeu",
@@ -2415,8 +2536,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.4282",
         "related.hosts": [
-            "mipsum2964.invalid",
-            "mad5185.www5.localhost"
+            "mad5185.www5.localhost",
+            "mipsum2964.invalid"
         ],
         "related.ip": [
             "10.179.50.138",
@@ -2482,16 +2603,20 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.3806",
         "related.hosts": [
-            "veniamq1236.invalid",
-            "esseq7889.www.invalid"
+            "esseq7889.www.invalid",
+            "veniamq1236.invalid"
         ],
         "related.ip": [
             "10.49.71.118",
             "10.234.165.130"
         ],
         "related.user": [
-            "henderit",
             "emip",
+            "henderit",
+<<<<<<< HEAD
+            "emip",
+=======
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "iuntNequ"
         ],
         "rsa.db.database": "veniamqu",
@@ -2593,9 +2718,15 @@
             "10.193.219.34"
         ],
         "related.user": [
+<<<<<<< HEAD
             "uamei",
             "utlabo",
             "olorem"
+=======
+            "olorem",
+            "uamei",
+            "utlabo"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "nse",
         "rsa.internal.event_desc": "orisni",
@@ -2645,9 +2776,15 @@
             "10.174.185.109"
         ],
         "related.user": [
+<<<<<<< HEAD
             "dolorem",
             "rsp",
             "animid"
+=======
+            "animid",
+            "dolorem",
+            "rsp"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "tsuntinc",
         "rsa.db.index": "quovo",
@@ -2707,8 +2844,8 @@
             "atnulapa3548.www.domain"
         ],
         "related.ip": [
-            "10.141.213.219",
-            "10.117.137.159"
+            "10.117.137.159",
+            "10.141.213.219"
         ],
         "related.user": [
             "ate",
@@ -2915,9 +3052,9 @@
             "10.255.28.56"
         ],
         "related.user": [
+            "rerepre",
             "umdolors",
-            "uptatem",
-            "rerepre"
+            "uptatem"
         ],
         "rsa.db.database": "odt",
         "rsa.db.index": "riosa",
@@ -2974,9 +3111,15 @@
             "10.45.35.180"
         ],
         "related.user": [
+<<<<<<< HEAD
             "qui",
             "mip",
             "Utenima"
+=======
+            "Utenima",
+            "mip",
+            "qui"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "boree",
         "rsa.internal.event_desc": "uteir",
@@ -3106,8 +3249,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.3147",
         "related.hosts": [
-            "mestq2106.api.host",
-            "llamc6724.www.lan"
+            "llamc6724.www.lan",
+            "mestq2106.api.host"
         ],
         "related.ip": [
             "10.39.143.155",
@@ -3181,9 +3324,9 @@
             "10.153.123.20"
         ],
         "related.user": [
-            "unt",
             "CSe",
-            "minim"
+            "minim",
+            "unt"
         ],
         "rsa.db.database": "atu",
         "rsa.db.index": "roi",
@@ -3248,9 +3391,15 @@
             "10.210.61.109"
         ],
         "related.user": [
+<<<<<<< HEAD
             "iamea",
             "eursinto",
             "giatquov"
+=======
+            "eursinto",
+            "giatquov",
+            "iamea"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "ici",
         "rsa.db.index": "iquaUt",
@@ -3308,8 +3457,13 @@
         ],
         "related.user": [
             "dolorsi",
+<<<<<<< HEAD
             "quiac",
             "lmo"
+=======
+            "lmo",
+            "quiac"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "idunt",
         "rsa.internal.event_desc": "usantiu",
@@ -3352,9 +3506,15 @@
             "10.169.123.103"
         ],
         "related.user": [
+<<<<<<< HEAD
             "oeni",
             "xplic",
             "etquasia"
+=======
+            "etquasia",
+            "oeni",
+            "xplic"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "hend",
         "rsa.internal.event_desc": "piscivel",
@@ -3452,9 +3612,15 @@
             "10.169.101.161"
         ],
         "related.user": [
+<<<<<<< HEAD
             "ine",
             "orissu",
             "eufug"
+=======
+            "eufug",
+            "ine",
+            "orissu"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "stquidol",
         "rsa.db.index": "imadmini",
@@ -3562,9 +3728,9 @@
             "10.134.55.11"
         ],
         "related.user": [
-            "tanimid",
             "madminim",
-            "mmod"
+            "mmod",
+            "tanimid"
         ],
         "rsa.db.database": "tetura",
         "rsa.db.index": "uptasnul",
@@ -3696,9 +3862,15 @@
             "10.61.175.217"
         ],
         "related.user": [
+<<<<<<< HEAD
             "tat",
             "runtm",
             "ntexpl"
+=======
+            "ntexpl",
+            "runtm",
+            "tat"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "rere",
         "rsa.db.index": "nonn",
@@ -3798,9 +3970,15 @@
             "10.98.71.45"
         ],
         "related.user": [
+<<<<<<< HEAD
             "onse",
             "fugitse",
             "CSe"
+=======
+            "CSe",
+            "fugitse",
+            "onse"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "Dui",
         "rsa.internal.event_desc": "isci",
@@ -3842,9 +4020,15 @@
             "10.252.251.143"
         ],
         "related.user": [
+<<<<<<< HEAD
             "remq",
             "rspic",
             "nonn"
+=======
+            "nonn",
+            "remq",
+            "rspic"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "nre",
         "rsa.internal.event_desc": "tev",
@@ -3930,8 +4114,13 @@
             "10.187.170.23"
         ],
         "related.user": [
+<<<<<<< HEAD
             "ibusBo",
             "enima",
+=======
+            "enima",
+            "ibusBo",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "sectetu"
         ],
         "rsa.db.index": "uido",
@@ -3982,8 +4171,13 @@
             "10.123.62.215"
         ],
         "related.user": [
+<<<<<<< HEAD
             "quaeratv",
             "aevitaed",
+=======
+            "aevitaed",
+            "quaeratv",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "tinculpa"
         ],
         "rsa.db.database": "lica",
@@ -4040,8 +4234,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.3759",
         "related.hosts": [
-            "temvele5776.www.test",
-            "osa3211.www5.example"
+            "osa3211.www5.example",
+            "temvele5776.www.test"
         ],
         "related.ip": [
             "10.146.57.23",
@@ -4105,9 +4299,15 @@
             "10.193.33.201"
         ],
         "related.user": [
+<<<<<<< HEAD
             "uamestqu",
             "niamqui",
             "ptatemU"
+=======
+            "niamqui",
+            "ptatemU",
+            "uamestqu"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "doeiu",
         "rsa.internal.event_desc": "uasiarc",
@@ -4193,9 +4393,15 @@
             "10.47.63.70"
         ],
         "related.user": [
+<<<<<<< HEAD
             "tpers",
             "midestl",
             "expl"
+=======
+            "expl",
+            "midestl",
+            "tpers"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "olu",
         "rsa.internal.event_desc": "odocons",
@@ -4285,13 +4491,18 @@
             "teursint1321.www5.example"
         ],
         "related.ip": [
-            "10.89.154.115",
-            "10.85.13.237"
+            "10.85.13.237",
+            "10.89.154.115"
         ],
         "related.user": [
             "Nem",
+<<<<<<< HEAD
             "luptat",
             "emeu"
+=======
+            "emeu",
+            "luptat"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "nturmag",
         "rsa.db.index": "maliqua",
@@ -4348,8 +4559,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.3387",
         "related.hosts": [
-            "nimve2787.mail.test",
-            "boreet2051.internal.localdomain"
+            "boreet2051.internal.localdomain",
+            "nimve2787.mail.test"
         ],
         "related.ip": [
             "10.222.32.183",
@@ -4504,8 +4715,8 @@
         ],
         "related.user": [
             "eprehe",
-            "tdolo",
-            "porissus"
+            "porissus",
+            "tdolo"
         ],
         "rsa.db.index": "abo",
         "rsa.internal.event_desc": "ecte",
@@ -4666,9 +4877,9 @@
             "10.148.195.208"
         ],
         "related.user": [
-            "quaerat",
             "isi",
-            "mpori"
+            "mpori",
+            "quaerat"
         ],
         "rsa.db.database": "squamest",
         "rsa.db.index": "pteu",
@@ -4729,13 +4940,13 @@
             "quisquam2153.mail.host"
         ],
         "related.ip": [
-            "10.107.24.54",
-            "10.10.174.253"
+            "10.10.174.253",
+            "10.107.24.54"
         ],
         "related.user": [
             "hend",
-            "uptasn",
-            "itinvo"
+            "itinvo",
+            "uptasn"
         ],
         "rsa.db.database": "lup",
         "rsa.db.index": "isau",
@@ -4794,8 +5005,13 @@
         ],
         "related.user": [
             "eeufug",
+<<<<<<< HEAD
             "tamr",
             "luptate"
+=======
+            "luptate",
+            "tamr"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "oreeufug",
         "rsa.internal.event_desc": "ura",
@@ -4849,9 +5065,9 @@
             "10.231.51.136"
         ],
         "related.user": [
-            "asper",
+            "Finibus",
             "accus",
-            "Finibus"
+            "asper"
         ],
         "rsa.db.database": "litani",
         "rsa.db.index": "arch",
@@ -4953,8 +5169,8 @@
         ],
         "related.user": [
             "cusa",
-            "ollita",
-            "mmodicon"
+            "mmodicon",
+            "ollita"
         ],
         "rsa.db.index": "ercitati",
         "rsa.internal.event_desc": "pteurs",
@@ -5178,9 +5394,15 @@
             "10.101.45.225"
         ],
         "related.user": [
+<<<<<<< HEAD
             "uinesc",
             "emi",
             "cipitla"
+=======
+            "cipitla",
+            "emi",
+            "uinesc"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "caecat",
         "rsa.internal.event_desc": "tsunt",
@@ -5272,8 +5494,13 @@
         ],
         "related.user": [
             "aliqu",
+<<<<<<< HEAD
             "ptatemse",
             "enimad"
+=======
+            "enimad",
+            "ptatemse"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.index": "Except",
         "rsa.internal.event_desc": "cons",
@@ -5319,13 +5546,18 @@
             "lla5407.lan"
         ],
         "related.ip": [
-            "10.94.152.238",
-            "10.151.110.250"
+            "10.151.110.250",
+            "10.94.152.238"
         ],
         "related.user": [
             "neavol",
+<<<<<<< HEAD
             "tla",
             "pidatatn"
+=======
+            "pidatatn",
+            "tla"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "itaedict",
         "rsa.db.index": "onemull",
@@ -5381,8 +5613,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.4965",
         "related.hosts": [
-            "tatemse5403.home",
-            "iquipexe4708.api.localhost"
+            "iquipexe4708.api.localhost",
+            "tatemse5403.home"
         ],
         "related.ip": [
             "10.77.9.17",
@@ -5390,8 +5622,13 @@
         ],
         "related.user": [
             "alorumwr",
+<<<<<<< HEAD
             "umS",
             "tevel"
+=======
+            "tevel",
+            "umS"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "amremap",
         "rsa.db.index": "aqu",
@@ -5491,8 +5728,8 @@
         "observer.vendor": "Cyberark",
         "observer.version": "1.7701",
         "related.hosts": [
-            "reprehe650.www.corp",
-            "oremip4070.www5.invalid"
+            "oremip4070.www5.invalid",
+            "reprehe650.www.corp"
         ],
         "related.ip": [
             "10.200.162.248",
@@ -5500,8 +5737,13 @@
         ],
         "related.user": [
             "doloremi",
+<<<<<<< HEAD
             "reseo",
             "onnu"
+=======
+            "onnu",
+            "reseo"
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
         ],
         "rsa.db.database": "billo",
         "rsa.db.index": "ectetura",

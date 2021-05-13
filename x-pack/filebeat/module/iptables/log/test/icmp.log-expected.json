@@ -11,8 +11,8 @@
         "event.module": "iptables",
         "event.timezone": "-02:00",
         "event.type": [
-            "denied",
-            "connection"
+            "connection",
+            "denied"
         ],
         "fileset.name": "log",
         "input.type": "log",
@@ -39,6 +39,10 @@
         "source.ip": "192.0.2.71",
         "source.mac": "90:10:18:5a:89:2a",
         "tags": [
+<<<<<<< HEAD
+=======
+            "forwarded",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "iptables"
         ]
     }

@@ -45,6 +45,10 @@
         "source.mac": "90:10:73:ba:d6:77",
         "source.port": 48689,
         "tags": [
+<<<<<<< HEAD
+=======
+            "forwarded",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "iptables"
         ]
     },
@@ -92,8 +96,8 @@
         "network.type": "ipv4",
         "observer.name": "MainFirewall",
         "related.ip": [
-            "192.168.134.158",
-            "192.0.2.25"
+            "192.0.2.25",
+            "192.168.134.158"
         ],
         "rule.id": "2000",
         "rule.name": "WAN_OUT",
@@ -102,6 +106,10 @@
         "source.mac": "90:10:24:67:f4:89",
         "source.port": 43189,
         "tags": [
+<<<<<<< HEAD
+=======
+            "forwarded",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "iptables"
         ]
     },
@@ -118,8 +126,8 @@
         "event.module": "iptables",
         "event.timezone": "-02:00",
         "event.type": [
-            "denied",
-            "connection"
+            "connection",
+            "denied"
         ],
         "fileset.name": "log",
         "input.type": "log",
@@ -152,8 +160,8 @@
         "observer.ingress.zone": "source",
         "observer.name": "MainFirewall",
         "related.ip": [
-            "192.168.110.116",
-            "192.0.2.25"
+            "192.0.2.25",
+            "192.168.110.116"
         ],
         "rule.id": "default",
         "rule.name": "source-dest",
@@ -162,6 +170,10 @@
         "source.mac": "90:10:65:29:b6:2a",
         "source.port": 50093,
         "tags": [
+<<<<<<< HEAD
+=======
+            "forwarded",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "iptables"
         ]
     },
@@ -208,8 +220,8 @@
         "network.type": "ipv4",
         "observer.name": "MainFirewall",
         "related.ip": [
-            "192.168.110.116",
-            "192.0.2.25"
+            "192.0.2.25",
+            "192.168.110.116"
         ],
         "rule.id": "2000",
         "rule.name": "WAN_OUT",
@@ -218,6 +230,10 @@
         "source.mac": "90:10:65:29:b6:2a",
         "source.port": 50093,
         "tags": [
+<<<<<<< HEAD
+=======
+            "forwarded",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "iptables"
         ]
     },
@@ -264,8 +280,8 @@
         "network.type": "ipv4",
         "observer.name": "MainFirewall",
         "related.ip": [
-            "192.168.110.116",
-            "192.0.2.25"
+            "192.0.2.25",
+            "192.168.110.116"
         ],
         "rule.id": "2000",
         "rule.name": "WAN_OUT",
@@ -274,6 +290,10 @@
         "source.mac": "90:10:65:29:b6:2a",
         "source.port": 50093,
         "tags": [
+<<<<<<< HEAD
+=======
+            "forwarded",
+>>>>>>> 52f226530d... [Filebeat] Sort array fields in generated data (#25320)
             "iptables"
         ]
     }
